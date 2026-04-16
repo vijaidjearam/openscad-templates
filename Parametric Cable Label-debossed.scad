@@ -2,7 +2,7 @@ $fn = 100;
 
 /* [Dimensions] */
 Cable_Diameter = 6.0;// [3:.5:10] 
-Wall_Thickness = 1.0; // [1:.5:5]
+Wall_Thickness = 1.5; // [1:.5:5]
 Outside_Diameter = Cable_Diameter + 2 * Wall_Thickness;
 Outside_Radius = Outside_Diameter / 2;
 Length = 15;//[5:1:50]
